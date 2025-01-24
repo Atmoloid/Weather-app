@@ -23,7 +23,7 @@ body{
     font-size: larger;
 }
 input::placeholder {
-    color: black; /* Cambia il colore del testo del placeholder */
+    color: black; 
   }
 #forecast-div{
     width: 400px;
