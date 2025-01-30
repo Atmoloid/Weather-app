@@ -8,8 +8,6 @@ This is a simple weather app project built in JavaScript.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
